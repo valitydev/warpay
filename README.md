@@ -1,4 +1,4 @@
-# warpay
+# warPay
 *Discussion: box or universal payment platform*
 
 #платформа #платежи #финтех #архитектура
