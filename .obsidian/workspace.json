@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Box-not-Box.md",
+                "file": "Transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Box-not-Box"
+              "title": "Transfer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Box-not-Box.md",
+                "file": "Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Box-not-Box"
+              "title": "Обратные ссылки для Transfer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Box-not-Box.md",
+                "file": "Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Box-not-Box"
+              "title": "Исходящие ссылки из Transfer"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Box-not-Box.md",
+                "file": "Transfer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Box-not-Box"
+              "title": "Структура Transfer"
             }
           }
         ],
@@ -170,15 +170,15 @@
   },
   "active": "5e7371d585ff399a",
   "lastOpenFiles": [
-    "Transfer.md",
     "Transaction Lifecycle.md",
     "Tags-Reference.md",
     "README.md",
     "Provider.md",
     "Platform.md",
     "Participant.md",
-    "Asset.md",
     "Box-not-Box.md",
+    "Transfer.md",
+    "Asset.md",
     "Merchant.md",
     "terms/Transfer.md",
     "terms/Provider.md",
