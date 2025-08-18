@@ -171,13 +171,14 @@
   "active": "5e7371d585ff399a",
   "lastOpenFiles": [
     "Transaction Lifecycle.md",
-    "Tags-Reference.md",
+    "Channel.md",
     "README.md",
+    "Transfer.md",
+    "Tags-Reference.md",
     "Provider.md",
     "Platform.md",
     "Participant.md",
     "Box-not-Box.md",
-    "Transfer.md",
     "Asset.md",
     "Merchant.md",
     "terms/Transfer.md",
@@ -197,7 +198,6 @@
     "Glossary.md",
     "Box vs Platform.md",
     "terms",
-    "Index.md",
     "0. Transfer"
   ]
 }
