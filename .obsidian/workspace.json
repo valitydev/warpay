@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transfer.md",
+                "file": "Characteristics-Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transfer"
+              "title": "Characteristics-Reference"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transfer.md",
+                "file": "Characteristics-Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Transfer"
+              "title": "Обратные ссылки для Characteristics-Reference"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transfer.md",
+                "file": "Characteristics-Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Transfer"
+              "title": "Исходящие ссылки из Characteristics-Reference"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transfer.md",
+                "file": "Characteristics-Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Transfer"
+              "title": "Структура Characteristics-Reference"
             }
           }
         ],
@@ -170,10 +170,18 @@
   },
   "active": "5e7371d585ff399a",
   "lastOpenFiles": [
+    "Transfer.md",
+    "Templates/Reference-Template.md",
+    "Templates/Concept-Template.md",
+    "Templates",
+    "Obsidian-Setup.md",
+    "_templates/navigation-snippet.md",
+    "_templates/concept-template.md",
+    "_templates",
+    "Characteristics-Reference.md",
     "Transaction Lifecycle.md",
     "Channel.md",
     "README.md",
-    "Transfer.md",
     "Tags-Reference.md",
     "Provider.md",
     "Platform.md",
@@ -190,13 +198,7 @@
     "Fees & Pricing.md",
     "Data Model.md",
     "backlog/Risk & Compliance.md",
-    "backlog/Fees & Pricing.md",
-    "backlog/Reconciliation.md",
-    "backlog/Disputes.md",
-    "backlog/Settlement & Funding.md",
     "backlog",
-    "Glossary.md",
-    "Box vs Platform.md",
     "terms",
     "0. Transfer"
   ]
