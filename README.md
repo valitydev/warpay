@@ -14,7 +14,7 @@
 
 ### 🔄 Процессы и операции
 - [[Transfer]] - Трансферы активов (базовая операция)
-- [[Transaction Lifecycle]] - Жизненный цикл транзакций
+- [[Transaction_Lifecycle]] - Жизненный цикл транзакций
 
 ### ⚖️ Архитектурные решения
 - [[Box-not-Box]] - Сравнение типов развертывания
@@ -83,7 +83,7 @@ list from #платформа OR #трансфер OR #участник OR #ак
 
 - **[[Participant]]** ←→ **[[Transfer]]** ←→ **[[Channel]]** ←→ **[[Provider]]**
 - **[[Asset]]** — объект всех **[[Transfer]]**, определяет применимые **[[Channel]]**
-- **[[Platform]]** — оркестрирует **[[Transaction Lifecycle]]** и выбор **[[Channel]]**/**[[Provider]]**
+- **[[Platform]]** — оркестрирует **[[Transaction_Lifecycle]]** и выбор **[[Channel]]**/**[[Provider]]**
 - **[[Box-not-Box]]** — варианты развертывания **[[Platform]]**
 
 #терминология #стандарты #ISO20022 #PSD2 #финтех 
